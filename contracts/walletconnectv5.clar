@@ -1,7 +1,4 @@
-;; --------------------------------------------------
-;; Level 5 — WalletConnect AppKit (Final Fix)
-;; --------------------------------------------------
-
+;; walletconnectv5.clar
 ;; Constantes
 (define-constant ERR-NOT-OWNER (err u200))
 (define-constant ERR-PAUSED (err u201))
